@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KelanRafferty\\source\\repos\\TrainingTrackerCertificateNotifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A6B8F7-C4FE-4DE8-AC14-63B2179750D4}|TrainingTrackerCertificateNotifier\\TrainingTrackerCertificateNotifier.csproj|c:\\users\\kelanrafferty\\source\\repos\\trainingtrackercertificatenotifier\\trainingtrackercertificatenotifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A6B8F7-C4FE-4DE8-AC14-63B2179750D4}|TrainingTrackerCertificateNotifier\\TrainingTrackerCertificateNotifier.csproj|solutionrelative:trainingtrackercertificatenotifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A6B8F7-C4FE-4DE8-AC14-63B2179750D4}|TrainingTrackerCertificateNotifier\\TrainingTrackerCertificateNotifier.csproj|c:\\users\\kelanrafferty\\source\\repos\\trainingtrackercertificatenotifier\\trainingtrackercertificatenotifier\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33A6B8F7-C4FE-4DE8-AC14-63B2179750D4}|TrainingTrackerCertificateNotifier\\TrainingTrackerCertificateNotifier.csproj|solutionrelative:trainingtrackercertificatenotifier\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KelanRafferty\\source\\repos\\TrainingTrackerCertificateNotifier\\TrainingTrackerCertificateNotifier\\appsettings.json",
+              "RelativeDocumentMoniker": "TrainingTrackerCertificateNotifier\\appsettings.json",
+              "ToolTip": "C:\\Users\\KelanRafferty\\source\\repos\\TrainingTrackerCertificateNotifier\\TrainingTrackerCertificateNotifier\\appsettings.json",
+              "RelativeToolTip": "TrainingTrackerCertificateNotifier\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T09:52:02.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KelanRafferty\\source\\repos\\TrainingTrackerCertificateNotifier\\TrainingTrackerCertificateNotifier\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingTrackerCertificateNotifier\\Program.cs",
+              "ToolTip": "C:\\Users\\KelanRafferty\\source\\repos\\TrainingTrackerCertificateNotifier\\TrainingTrackerCertificateNotifier\\Program.cs",
+              "RelativeToolTip": "TrainingTrackerCertificateNotifier\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwGIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:32:33.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

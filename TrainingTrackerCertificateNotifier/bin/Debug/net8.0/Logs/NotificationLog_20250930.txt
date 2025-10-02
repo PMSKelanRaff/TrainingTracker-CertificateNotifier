@@ -1,0 +1,48 @@
+2025-09-30 09:57:54 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 09:57:54 -  Failed to send notification for bob - Police Training
+2025-09-30 09:57:54 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 09:57:54 -  Failed to send notification for bob - Fire Warden
+2025-09-30 09:57:54 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 09:57:54 -  Failed to send notification for bob - Safe Pass
+2025-09-30 09:57:58 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 09:57:58 -  Failed to send notification for bob - Police Training
+2025-09-30 09:57:58 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 09:57:58 -  Failed to send notification for bob - Fire Warden
+2025-09-30 09:57:58 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 09:57:58 -  Failed to send notification for bob - Safe Pass
+2025-09-30 10:06:17 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 10:06:17 -  Failed to send notification for bob - Police Training
+2025-09-30 10:06:17 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 10:06:17 -  Failed to send notification for bob - Fire Warden
+2025-09-30 10:06:17 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 10:06:17 -  Failed to send notification for bob - Safe Pass
+2025-09-30 10:07:05 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 10:07:05 -  Failed to send notification for bob - Police Training
+2025-09-30 10:07:05 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 10:07:05 -  Failed to send notification for bob - Fire Warden
+2025-09-30 10:07:05 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 10:07:05 -  Failed to send notification for bob - Safe Pass
+2025-09-30 10:07:07 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 10:07:07 -  Failed to send notification for bob - Police Training
+2025-09-30 10:07:07 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 10:07:07 -  Failed to send notification for bob - Fire Warden
+2025-09-30 10:07:07 -  Error sending email to bob: The specified string is not in the form required for an e-mail address.
+2025-09-30 10:07:07 -  Failed to send notification for bob - Safe Pass
+2025-09-30 10:09:15 -  Error sending email to KelanRafferty@pms.ie: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+2025-09-30 10:09:15 -  Failed to send notification for KelanRafferty@pms.ie - Police Training
+2025-09-30 10:09:18 -  Error sending email to KelanRafferty@pms.ie: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+2025-09-30 10:09:18 -  Failed to send notification for KelanRafferty@pms.ie - Fire Warden
+2025-09-30 10:09:20 -  Error sending email to KelanRafferty@pms.ie: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+2025-09-30 10:09:20 -  Failed to send notification for KelanRafferty@pms.ie - Safe Pass
+2025-09-30 10:52:54 -  Notification sent for KelanRafferty@pms.ie - Police Training
+2025-09-30 10:52:56 -  Notification sent for KelanRafferty@pms.ie - Fire Warden
+2025-09-30 10:53:00 -  Notification sent for KelanRafferty@pms.ie - Safe Pass
+2025-09-30 11:42:05 -  Notification sent for KelanRafferty@pms.ie - Police Training
+2025-09-30 11:42:08 -  Notification sent for KelanRafferty@pms.ie - Fire Warden
+2025-09-30 11:42:11 -  Notification sent for KelanRafferty@pms.ie - Safe Pass
+2025-09-30 12:35:23 -  Notification sent for KelanRafferty@pms.ie - Police Training
+2025-09-30 12:35:25 -  Notification sent for KelanRafferty@pms.ie - Fire Warden
+2025-09-30 12:35:27 -  Notification sent for KelanRafferty@pms.ie - Safe Pass
+2025-09-30 14:26:00 -  Notification sent for KelanRafferty@pms.ie - Police Training
+2025-09-30 14:26:03 -  Notification sent for KelanRafferty@pms.ie - Fire Warden
+2025-09-30 14:26:06 -  Notification sent for KelanRafferty@pms.ie - Safe Pass

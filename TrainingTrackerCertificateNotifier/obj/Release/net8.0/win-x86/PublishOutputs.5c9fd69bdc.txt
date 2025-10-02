@@ -1,0 +1,4 @@
+C:\Users\KelanRafferty\Desktop\New folder (2)\TrainingTrackerCertificateNotifier.pdb
+C:\Users\KelanRafferty\Desktop\New folder (2)\appsettings.json
+C:\Users\KelanRafferty\Desktop\New folder (2)\e_sqlite3.dll
+C:\Users\KelanRafferty\Desktop\New folder (2)\TrainingTrackerCertificateNotifier.exe

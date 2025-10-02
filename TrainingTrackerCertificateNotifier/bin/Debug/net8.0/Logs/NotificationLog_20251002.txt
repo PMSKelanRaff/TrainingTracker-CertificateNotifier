@@ -1,0 +1,12 @@
+2025-10-02 09:50:08 -  Notification sent for KelanRafferty@pms.ie - Police Training
+2025-10-02 09:50:11 -  Notification sent for KelanRafferty@pms.ie - Fire Warden
+2025-10-02 09:50:14 -  Notification sent for KelanRafferty@pms.ie - Safe Pass
+2025-10-02 09:50:14 -  Failed to send notification for shane - Manual Handling
+2025-10-02 09:50:14 -  Failed to send notification for steve - Manual Handling
+2025-10-02 11:43:23 -  Notification sent for KelanRafferty@pms.ie - Police Training
+2025-10-02 11:43:27 -  Notification sent for KelanRafferty@pms.ie - Fire Warden
+2025-10-02 11:43:30 -  Notification sent for KelanRafferty@pms.ie - Safe Pass
+2025-10-02 11:43:30 -  Failed to send notification for shane - Manual Handling
+2025-10-02 11:43:30 -  Failed to send notification for steve - Manual Handling
+2025-10-02 12:54:40 -  Failed to send notification for shane - Manual Handling
+2025-10-02 12:54:40 -  Failed to send notification for steve - Manual Handling
