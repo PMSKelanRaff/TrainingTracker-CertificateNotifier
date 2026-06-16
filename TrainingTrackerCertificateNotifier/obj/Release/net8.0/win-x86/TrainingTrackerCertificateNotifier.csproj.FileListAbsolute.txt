@@ -4,7 +4,6 @@ C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingT
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\TrainingTrackerCertificateNotifier.runtimeconfig.json
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\TrainingTrackerCertificateNotifier.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\TrainingTrackerCertificateNotifier.pdb
-C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.Data.Sqlite.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.Extensions.Configuration.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
@@ -13,13 +12,9 @@ C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingT
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.Extensions.Primitives.dll
-C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\SQLitePCLRaw.batteries_v2.dll
-C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\SQLitePCLRaw.core.dll
-C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\System.IO.Pipelines.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\System.Text.Encodings.Web.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\System.Text.Json.dll
-C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\e_sqlite3.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.CSharp.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.VisualBasic.Core.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.VisualBasic.dll
@@ -196,7 +191,6 @@ C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingT
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\hostfxr.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\hostpolicy.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\mscordaccore.dll
-C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\mscordaccore_x86_x86_8.0.1525.16413.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\mscordbi.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\mscorrc.dll
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\msquic.dll
@@ -211,3 +205,8 @@ C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingT
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\obj\Release\net8.0\win-x86\TrainingTrackerCertificateNotifier.pdb
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\obj\Release\net8.0\win-x86\TrainingTrackerCertificateNotifier.genruntimeconfig.cache
 C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\obj\Release\net8.0\win-x86\ref\TrainingTrackerCertificateNotifier.dll
+C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\Npgsql.dll
+C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\bin\Release\net8.0\win-x86\mscordaccore_x86_x86_8.0.2526.11203.dll
+C:\Users\KelanRafferty\source\repos\TrainingTrackerCertificateNotifier\TrainingTrackerCertificateNotifier\obj\Release\net8.0\win-x86\TrainingTrackerCertificateNotifier.sourcelink.json

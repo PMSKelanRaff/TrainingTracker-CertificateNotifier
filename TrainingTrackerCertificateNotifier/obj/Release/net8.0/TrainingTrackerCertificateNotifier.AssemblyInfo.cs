@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrainingTrackerCertificateNotifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+458ecc38eac1b35ddad9b4465d97067645e6a670")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrainingTrackerCertificateNotifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrainingTrackerCertificateNotifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
